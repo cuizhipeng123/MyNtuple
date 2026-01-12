@@ -1,0 +1,9 @@
+
+{ decls }
+
+[ myntuple_C.so ]
+namespace myntuple
+class myntuple::myntuple
+header myntuple.h
+
+
